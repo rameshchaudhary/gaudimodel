@@ -1,0 +1,4 @@
+[24-Aug-2014 20:32:33 America/Denver] PHP Fatal error:  Call to undefined function link_tag() in /home3/offshore/public_html/demo/gaudimodel/application/views/header.php on line 11
+[24-Aug-2014 20:32:34 America/Denver] PHP Fatal error:  Call to undefined function link_tag() in /home3/offshore/public_html/demo/gaudimodel/application/views/header.php on line 11
+[24-Aug-2014 20:32:41 America/Denver] PHP Fatal error:  Call to undefined function link_tag() in /home3/offshore/public_html/demo/gaudimodel/application/views/header.php on line 11
+[24-Aug-2014 20:32:45 America/Denver] PHP Fatal error:  Call to undefined function link_tag() in /home3/offshore/public_html/demo/gaudimodel/application/views/header.php on line 11
